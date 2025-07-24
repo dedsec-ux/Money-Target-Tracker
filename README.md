@@ -1,4 +1,4 @@
-# test
+# Money Target Tracker
 
 A new Flutter project.
 
